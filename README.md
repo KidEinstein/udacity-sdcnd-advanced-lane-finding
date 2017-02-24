@@ -19,7 +19,7 @@ The goals / steps of this project are the following:
 [image4]: ./output/warped_straight_lines.jpeg "Warp Example"
 [image5]: ./output/fit_lines.jpeg "Fit Visual"
 [image6]: ./output/example_output.jpeg "Output"
-[video1]: ./output/project_video.mp4 "Video"
+[video1]: ./output/project_video_output.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
 ### Here I will consider the rubric points individually and describe how I addressed each point in my implementation.  
